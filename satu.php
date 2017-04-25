@@ -1,3 +1,3 @@
 <?php
-echo "file satu";
+echo "file satwseddu";
 ?>
