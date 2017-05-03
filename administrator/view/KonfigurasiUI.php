@@ -9,7 +9,7 @@ class KonfigurasiUI extends konf
 	
 	public function tampilLengkap()
 	{
-		include_once 'pages/beranda.php';
+		include_once 'pages/konfigurasi.php';
 		$this->end();
 	}
 }
