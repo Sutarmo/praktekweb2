@@ -1,4 +1,4 @@
-            <!-- Blog Sidebar Widgets Column -->
+<!-- Blog Sidebar Widgets Column -->
             <div class="col-md-4">
 
                 <!-- Blog Search Well -->
@@ -18,7 +18,7 @@
                     <h4>Blog Categories</h4>
                     <div class="row">
                         <div class="col-lg-6">
-                            <ul clasSide Wids="list-unstyled">
+                            <ul class="list-unstyled">
                                 <li><a href="#">Category Name</a>
                                 </li>
                                 <li><a href="#">Category Name</a>
@@ -56,3 +56,8 @@
             </div>
 
         </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
